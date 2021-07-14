@@ -13,6 +13,7 @@ header{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     padding: 135px 141px 86px 156px;
+    width: 100%;
     
 }
 .top-header-info{
